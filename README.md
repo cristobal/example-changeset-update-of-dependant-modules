@@ -13,8 +13,7 @@ Running a git status show us the following:
 ```
 git status
 On branch main
-Your branch is ahead of 'origin/main' by 2 commits.
-  (use "git push" to publish your local commits)
+...
 
 Changes not staged for commit:
   (use "git add/rm <file>..." to update what will be committed)
