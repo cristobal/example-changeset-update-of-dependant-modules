@@ -1,0 +1,8 @@
+{
+  "name": "@libraries/z",
+  "version": "0.0.1",
+  "description": "Library module Z dependant on library module M",
+  "dependencies": {
+    "@libraries/m": "0.0.1"
+  }
+}

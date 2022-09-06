@@ -1,0 +1,20 @@
+{
+  "name": "example-changeset-update-of-dependant-modules",
+  "private": true,
+  "description": "Example of changeset version updating dependant modules in a monorepo",
+  "keywords": [
+    "example",
+    "repo",
+    "changeset",
+    "versione"
+  ],
+  "devDependencies": {
+    "@changesets/cli": "2.24.4"
+  },
+  "workspaces": [
+    "apps/X",
+    "apps/Y",
+    "libraries/M",
+    "libraries/Z"
+  ]
+}

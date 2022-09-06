@@ -1,0 +1,9 @@
+{
+  "name": "@apps/x",
+  "version": "0.0.1",
+  "private": true,
+  "description": "App X dependant on library module M",
+  "dependencies": {
+    "@libraries/m": "0.0.1"
+  }
+}
